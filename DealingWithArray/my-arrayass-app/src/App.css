@@ -1,0 +1,18 @@
+/* .App{
+  margin:auto;
+} */
+table{
+  margin:auto;
+  border-collapse:collapse ;
+  width:80%;
+}
+table, tr, td{
+border: 1px solid black;
+}
+thead{
+  background-color: lightgrey;
+}
+button{
+  margin-left:50%;
+  
+}
